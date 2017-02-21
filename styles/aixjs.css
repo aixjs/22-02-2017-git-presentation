@@ -1,0 +1,25 @@
+body {
+    background-image: url("../images/back.png") !important;
+}
+
+img {
+    border: none !important;
+    background: none !important;
+    box-shadow: none !important;
+}
+
+ul {
+    margin: 0 !important;
+}
+
+.pros {
+    color: lawngreen !important;
+}
+
+.cons {
+    color: red !important;
+}
+
+.second-title {
+    margin-top: 20px !important;
+}
