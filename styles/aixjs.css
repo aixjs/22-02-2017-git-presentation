@@ -23,3 +23,8 @@ ul {
 .second-title {
     margin-top: 20px !important;
 }
+
+.images-container {
+    display: flex;
+    align-items: center;
+}
